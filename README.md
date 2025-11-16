@@ -2,9 +2,7 @@
 
 Uma página de cadastro moderna com design elegante em glassmorphism, construída com React e Vite.
 
-## 📸 Preview
 
-![DIO Cadastro Preview](./screenshot.png)
 
 ## ✨ O que tem aqui
 
@@ -72,23 +70,7 @@ Edite os arquivos em `src/`:
 - `App.css` para estilos e cores
 - `constants.js` para configurações
 
-## 🚀 Deploy
-
-### Vercel (Recomendado)
-```bash
-npm run build
-# Deploy a pasta dist/ na Vercel
-```
-
-### Netlify
-1. Conecte seu repositório
-2. Deploy automático
-
-### GitHub Pages
-1. Settings → Pages
-2. Deploy from branch (main)
-
-## 📄 Licença
+##  Licença
 
 Aberto para uso pessoal e comercial.
 
